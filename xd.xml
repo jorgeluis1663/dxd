@@ -2,11 +2,11 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>4.0.0.0</version> 
-        <url>https://mega.nz/#!UUZgVYxZ!uw6b00ZCEmcxpSuiKem5zmxLszpLgxUwwVH0FGAy1ec</url> 
-        <fileName>TestApp.exe</fileName> 
+        <url>https://mega.nz/#!EM5ERTTJ!qmqI9QU0din77iFkCxx9ugnDffJrhuoyruodS95Rrmo</url> 
+        <fileName>xd.dll</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 06/19/2016:
-        1. Added notification message when the current version is already the latest.</description> 
+        <description>Update: 06/19/2019:
+        1. Added notification message whe45n the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
