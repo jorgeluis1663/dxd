@@ -1,8 +1,8 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>3.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <version>4.0.0.0</version> 
+        <url>https://mega.nz/#!UUZgVYxZ!uw6b00ZCEmcxpSuiKem5zmxLszpLgxUwwVH0FGAy1ec</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 06/19/2014:
