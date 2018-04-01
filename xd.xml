@@ -3,7 +3,7 @@
     <update appID="TestApp"> 
         <version>4.0.0.0</version> 
         <url>https://mega.nz/#!EM5ERTTJ!qmqI9QU0din77iFkCxx9ugnDffJrhuoyruodS95Rrmo</url> 
-        <fileName>xd.dll</fileName> 
+        <fileName>TestApp.dll</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 06/19/2019:
         1. Added notification message whe45n the current version is already the latest.</description> 
